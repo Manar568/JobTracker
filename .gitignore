@@ -1,0 +1,46 @@
+## Build results
+
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+
+.vscode/
+
+## User-specific files
+
+*.userprefs
+
+## Test Results
+
+TestResults/
+*.trx
+
+## NuGet
+
+*.nupkg
+*.snupkg
+packages/
+
+## Logs
+
+*.log
+
+## Environment and secrets
+
+.env
+.env.*
+appsettings.Development.json
+
+## OS files
+
+.DS_Store
+Thumbs.db
